@@ -1,6 +1,6 @@
 vcpkg_from_git(
     OUT_SOURCE_PATH SOURCE_PATH
-    URL https://github.com/Aloatec/vcpkg-training
+    URL https://github.com/IncredibleOlC/vcpkg-registry
     REF 4a0167ba201c805255e544027dd274d04aa7677f
 )
 
