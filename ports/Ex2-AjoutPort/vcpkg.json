@@ -1,5 +1,4 @@
 {
-  "dependencies": [
-    "alib-adkcore"
-  ]
+  "name": "ex2-ajoutport",
+  "version": "1.0.0.0"
 }
