@@ -1,7 +1,7 @@
 vcpkg_from_git(
     OUT_SOURCE_PATH SOURCE_PATH
-    URL https://github.com/Aloatec/vcpkg-training
-    REF 4a0167ba201c805255e544027dd274d04aa7677f
+    URL https://github.com/Aloatec/vcpkg-registry
+    REF ec2c283e07ab32381e61c0c5d8df1c16b2ffb3ad
 )
 
 vcpkg_msbuild_install(
